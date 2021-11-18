@@ -1,7 +1,8 @@
 <p align="center"> 
 
 **Result:**
-
+﹒[Discord](https://discord.gg/jzd37CngKt)
+  
 ![Result](https://cdn.discordapp.com/attachments/900545579074068522/910709449679847424/Capturar.PNG)
 
 **Configurar:**
@@ -29,8 +30,3 @@ Todas as suas intents de bots devem ser ativadas. Como fazer isso? `Dev Portal> 
 
 
 Fique a vontade para alterar o'que está por dentro
-
-
-﹒[Discord](https://discord.gg/jzd37CngKt)
-  
-  

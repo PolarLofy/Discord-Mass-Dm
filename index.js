@@ -44,9 +44,9 @@ console.log(`
 client.on("ready", () => {
 	process.title = `SaiberDiv`;
 	client.user.setActivity({
-		name: "SaiberDiv",
+		name: "Good Div",
 		type: "STREAMING",
-		url: "https://www.twitch.tv/vixtr"
+		url: "https://www.twitch.tv/polarlofy"
 	});
 });
 readline.question("            [!] ID do servidor: ".magenta, response => {

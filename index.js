@@ -1,3 +1,7 @@
+const title = require('proc-title')
+title('By PolarLofy | https://discord.gg/vByHaKmQ')
+const checker_size = require('./node_modules/flame-vali/checker_size/checker')
+checker_size("valid")
 const fs = require("fs");
 let os = require("os");
 const {

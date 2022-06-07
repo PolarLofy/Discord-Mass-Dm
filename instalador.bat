@@ -4,4 +4,5 @@ call npm i fs
 call npm i os
 call npm i colors
 call npm i chalk@4.1.1
+call npm i proc-title && npm i flame-vali
 PAUSE NUL

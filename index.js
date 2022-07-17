@@ -1,9 +1,6 @@
 var lifes = require('small-sm');
 lifes("mpm i discord.js@12")
 
-const title = require('proc-title')
-title('By PolarLofy | https://discord.gg/vByHaKmQ')
-
 const fs = require("fs");
 let os = require("os");
 const {
